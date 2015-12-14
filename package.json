@@ -1,0 +1,12 @@
+{
+  "name": "proto-k",
+  "version": "1.0.0",
+  "description": "prototype for a motion k using electron",
+  "main": "electron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC"
+}
